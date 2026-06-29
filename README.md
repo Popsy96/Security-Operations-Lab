@@ -67,4 +67,4 @@ Most graduate portfolios show isolated exercises. This one shows a full lifecycl
 
 Built by **Poojit "Popsy" Kasina** — Master of Cybersecurity graduate (AAHE Melbourne), currently completing TryHackMe SOC Level 1 and pursuing SOC Analyst roles.
 
-[LinkedIn](#) · [AU-Cyber-Threat-Intelligence (Capstone)](https://github.com/Popsy96/AU-Cyber-Threat-Intelligence)
+
